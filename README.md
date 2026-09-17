@@ -1,1 +1,1 @@
-# -Earn-Token
+#Earn-Token
