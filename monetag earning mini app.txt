@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+            <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -156,7 +156,7 @@ h1 {
 <body>
 
 <div class="container">
-    <h1>Earn Master</h1>
+    <h1>Earn Token</h1>
     <a href="https://www.youtube.com/@onlinehelp360-bd" target="_blank" class="developer">Online Help 360</a>
 
     <div class="stats">
@@ -186,7 +186,7 @@ h1 {
     </div>
 
     <div class="links">
-        <a href="https://t.me/bestearningmethod" target="_blank">Telegram Support Group</a>
+        <a href="https://t.me/sawan17jdhb="_blank">Telegram Support Group</a>
     </div>
 </div>
 
